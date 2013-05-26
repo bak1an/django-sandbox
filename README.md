@@ -1,4 +1,4 @@
 django-sandbox
 ==============
 
-here you can find some bugs
+here you can find some bugs (see branches)
